@@ -1,0 +1,6 @@
+{
+  "name": "Hill Academic Care",
+  "description": "An elegant class schedule planner and automated audio reminder system tailored for Hill Academic Care, covering classes 6 to 10 with Science, Business Studies, and Humanities groups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
